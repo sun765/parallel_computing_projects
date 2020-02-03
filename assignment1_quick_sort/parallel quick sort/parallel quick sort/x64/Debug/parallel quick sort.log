@@ -1,0 +1,5 @@
+﻿  parallel quick sort.cpp
+  RandomArray.cpp
+  Generating Code...
+F:\purdue\CS 525\assignments\assignment1_quick_sort\parallel quick sort\parallel quick sort\RandomArray.cpp(9): warning C4172: returning address of local variable or temporary: vecOfRandomNums
+  parallel quick sort.vcxproj -> F:\purdue\CS 525\assignments\assignment1_quick_sort\parallel quick sort\x64\Debug\parallel quick sort.exe

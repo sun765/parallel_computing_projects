@@ -152,6 +152,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="parallel quick sort.cpp" />
+    <ClCompile Include="RandomArray.cpp" />
+    <ClCompile Include="ThreadedQuickSort.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RandomArray.h" />
+    <ClInclude Include="ThreadedQuickSort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
