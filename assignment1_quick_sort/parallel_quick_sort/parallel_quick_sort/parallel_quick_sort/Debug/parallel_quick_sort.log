@@ -1,0 +1,6 @@
+﻿  main.c
+F:\purdue\CS 525\assignments\assignment1_quick_sort\parallel_quick_sort\parallel_quick_sort\parallel_quick_sort\main.c(79,7): warning C4101: 'buffer3': unreferenced local variable
+F:\purdue\CS 525\assignments\assignment1_quick_sort\parallel_quick_sort\parallel_quick_sort\parallel_quick_sort\main.c(90,7): warning C4101: 'buffer4': unreferenced local variable
+F:\purdue\CS 525\assignments\assignment1_quick_sort\parallel_quick_sort\parallel_quick_sort\parallel_quick_sort\main.c(66,7): warning C4101: 'buffer2': unreferenced local variable
+F:\purdue\CS 525\assignments\assignment1_quick_sort\parallel_quick_sort\parallel_quick_sort\parallel_quick_sort\main.c(57,7): warning C4101: 'buffer': unreferenced local variable
+  parallel_quick_sort.vcxproj -> F:\purdue\CS 525\assignments\assignment1_quick_sort\parallel_quick_sort\parallel_quick_sort\Debug\parallel_quick_sort.exe
