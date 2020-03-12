@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="assign2" targetName="assign2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b6a1273-704d-433a-b97f-8932698dd82b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XxqvlqCBYhINk1ER96m5G5FAw4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OCFindUsagesOptions.isSearchForTextOccurrences" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\windows_linux_shared_folder\assign2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="assign2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assign2" TARGET_NAME="assign2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="assign2" RUN_TARGET_NAME="assign2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b6a1273-704d-433a-b97f-8932698dd82b" name="Default Changelist" comment="" />
+      <created>1581998325535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581998325535</updated>
+      <workItem from="1581998327205" duration="3000" />
+      <workItem from="1581998902852" duration="1842000" />
+      <workItem from="1582053241110" duration="15848000" />
+      <workItem from="1582158979976" duration="14012000" />
+      <workItem from="1582215437526" duration="9658000" />
+      <workItem from="1582480764906" duration="10230000" />
+      <workItem from="1582497307874" duration="1128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582215964698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582215964698" />
+    <state x="707" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582078032869" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1582497308105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582215439650" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582497308105" />
+    <state x="426" y="188" key="run.anything.popup" timestamp="1582220779502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1582220779502" />
+  </component>
+</project>
